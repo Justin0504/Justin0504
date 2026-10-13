@@ -13,11 +13,12 @@ M.S. in Computer Engineering (Honors) at **USC**, researching at [**FORTIS Lab**
 - **[Serica](https://goserica.com)** — AI-planned trips into China
 
 ### Selected papers (2026)
-- [CUA-SWE: When Computer-Use Agents Meet Visual Software Engineering](https://arxiv.org/abs/2609.32600) — **ICLR 2026**
+- [CUA-SWE: When Computer-Use Agents Meet Visual Software Engineering](https://arxiv.org/abs/2609.32600) — under review at ICLR 2027
 - [WeClawArena: An Auditable Sandbox and Benchmark for Cross-User Agent Collaboration and Security](https://arxiv.org/abs/2608.03499) — **Findings of EMNLP 2026**
 - [When Simulation Lies: A Sim-to-Real Benchmark for Tool-Use Agents](https://arxiv.org/abs/2605.11928) — **NeurIPS 2026**
 - [Auditable Agents](https://arxiv.org/abs/2604.05485) — KnowFM @ ACL 2026 · ACM AI Summit 2026
 - [SEVA: Self-Evolving Verification Agent with Process Reward for Fact Attribution](https://arxiv.org/abs/2606.29713) — AI4GOOD & FAGEN @ ICML 2026
-- [Hidden Error Awareness in Chain-of-Thought Reasoning](https://arxiv.org/abs/2605.09502) · [Beyond Language: Format-Agnostic Reasoning Subspaces](https://arxiv.org/abs/2605.09496) · [Concept Subspaces Compute Beyond the Logit Lens](https://arxiv.org/abs/2609.39263)
+- [Hidden Error Awareness in Chain-of-Thought Reasoning](https://arxiv.org/abs/2605.09502) — Mechanistic Interpretability Workshop @ ICML 2026
+- [Beyond Language: Format-Agnostic Reasoning Subspaces](https://arxiv.org/abs/2605.09496) · [Concept Subspaces Compute Beyond the Logit Lens](https://arxiv.org/abs/2609.39263)
 
 → All 15 papers, each with a plain-language explainer: **[aojieyuan.com](https://aojieyuan.com/#publications)**
