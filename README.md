@@ -5,7 +5,7 @@ M.S. in Computer Engineering (Honors) at **USC**, researching at [**FORTIS Lab**
 
 **Research:** agent safety · LLM reasoning & interpretability · world models
 
-🌐 [aojieyuan.com](https://aojieyuan.com) · [中文主页](https://aojieyuan.com/zh/) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=bbx7LoIAAAAJ&hl=en) · 📝 [Writing](https://aojieyuan.com/blog/) · ✉️ aojieyua@usc.edu
+🌐 [aojieyuan.com](https://aojieyuan.com) · [中文主页](https://aojieyuan.com/zh/) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=bbx7LoIAAAAJ&hl=en) · 🆔 [ORCID](https://orcid.org/0009-0007-4643-230X) · 📝 [Writing](https://aojieyuan.com/blog/) · ✉️ aojieyua@usc.edu
 
 ### Building
 - **[AEGIS](https://github.com/Justin0504/Aegis)** — the firewall for AI agents: pre-execution policy enforcement, cryptographic audit trail, human-in-the-loop approvals. [Paper](https://arxiv.org/abs/2603.12621) · [aegistraces.com](https://aegistraces.com) · [USC Viterbi News](https://viterbischool.usc.edu/news/2026/08/giving-ai-agents-the-keys-usc-engineers-develop-tools-to-audit-and-monitor-ai-agents/)
@@ -19,6 +19,7 @@ M.S. in Computer Engineering (Honors) at **USC**, researching at [**FORTIS Lab**
 - [Auditable Agents](https://arxiv.org/abs/2604.05485) — KnowFM @ ACL 2026 · ACM AI Summit 2026
 - [SEVA: Self-Evolving Verification Agent with Process Reward for Fact Attribution](https://arxiv.org/abs/2606.29713) — AI4GOOD & FAGEN @ ICML 2026
 - [Hidden Error Awareness in Chain-of-Thought Reasoning](https://arxiv.org/abs/2605.09502) — Mechanistic Interpretability Workshop @ ICML 2026
+- [Agent Chronoception: Temporal Validity and Useful Persistence](https://doi.org/10.5281/zenodo.23484052) — preprint · [explainer](https://aojieyuan.com/blog/when-should-an-ai-agent-keep-working)
 - [Beyond Language: Format-Agnostic Reasoning Subspaces](https://arxiv.org/abs/2605.09496) · [Concept Subspaces Compute Beyond the Logit Lens](https://arxiv.org/abs/2609.39263)
 
-→ All 15 papers, each with a plain-language explainer: **[aojieyuan.com](https://aojieyuan.com/#publications)**
+→ All 16 papers, each with a plain-language explainer: **[aojieyuan.com](https://aojieyuan.com/#publications)**
